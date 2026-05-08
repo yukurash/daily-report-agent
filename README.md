@@ -23,7 +23,7 @@
 | タスクを削除 | 「No 3 を消して」 | `remove 3` |
 | 日報出力(PNG / HTML) | 「終わり、日報出して」 | `report` |
 
-### 1 日の流れ
+### 1 日の流れの例
 
 ```mermaid
 flowchart LR
