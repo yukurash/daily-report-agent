@@ -1,0 +1,9 @@
+# outputs/ フォルダ自体は git 管理に含める(.gitkeep のみ)
+# 中の日付フォルダ(実データ)はすべて無視
+outputs/*
+!outputs/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
